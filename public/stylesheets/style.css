@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #f0f0f0; }
+
+a {
+  color: #808080;
+  transition: all 1s; }
+  a:hover {
+    text-decoration: none;
+    color: blue; }
+
+.sidebar-nav {
+  min-height: 90vh;
+  margin-top: 15px;
+  padding: 0;
+  list-style: none;
+  border-right: 2px solid #808080; }
+  .sidebar-nav li {
+    height: 20px; }
+
+/*# sourceMappingURL=style.css.map */
