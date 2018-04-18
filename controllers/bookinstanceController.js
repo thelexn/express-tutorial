@@ -103,7 +103,7 @@ exports.bookinstance_delete_get = function (req, res) {
 };
 
 // Handle BookInstance delete on POST.
-exports.bookinstance_delete_post = function (req, res) {
+exports.bookinstance_delete_post = function (req, res, next) {
     res.send('NOT IMPLEMENTED: BookInstance delete POST');
 };
 
